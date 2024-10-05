@@ -152,7 +152,7 @@
 }
 
 .card {
-  background-color: #f8f9fa;
+  background-color: #1c1c1c;
   padding: 20px;
   border-radius: 8px;
   margin-bottom: 20px;
@@ -166,6 +166,7 @@
 
 .card ul li {
   margin-bottom: 10px;
+  color: white;
 }
 
 .heading_container h2 {
